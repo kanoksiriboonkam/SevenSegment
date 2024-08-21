@@ -1,0 +1,4 @@
+dependencies:
+  LED:
+    git: https://github.com/kanoksiriboonkam/LED_khim.git
+    path: components/LED

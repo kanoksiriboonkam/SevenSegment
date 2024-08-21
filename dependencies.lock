@@ -1,0 +1,16 @@
+dependencies:
+  LED:
+    component_hash: c7e549a86120eb59d71f0b777c62dd88f3c02112d86e5af8a20171e3c08df7bf
+    source:
+      git: https://github.com/kanoksiriboonkam/LED_khim.git
+      path: components/LED
+      type: git
+    version: c9c51e5bef1d3e6ed1738c2c30e6bc3d35ed4714
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.2.2
+manifest_hash: ea1034049f6ba7a02f8b2e10b5347ca486ae24c9e05c44fb1a2b47f381238fc9
+target: esp32
+version: 1.0.0
